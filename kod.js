@@ -4,3 +4,6 @@ client.once('ready', () => { //Client hazır olduğunda
     type: "BOTUN AKTİVİTE DURUMU"//örnek : LISTENING: dinliyor       STREAMING: yayınlıyor      WATCHING: izliyor vb.             NOT: mesela LISTENİNG yazarsanız kod çalışmaz i leri ı olarak yazmanız lazım....
   })
   });
+
+
+//https://discord.gg/lykia
