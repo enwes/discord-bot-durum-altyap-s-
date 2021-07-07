@@ -5,5 +5,4 @@ client.once('ready', () => { //Client hazır olduğunda
   })
   });
 
-
 //https://discord.gg/lykia
